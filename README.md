@@ -1,4 +1,4 @@
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=VaibhavBargal.Vaibhavb1407" alt="Welcome" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Vaibhavb1407.Vaibhavb1407" alt="Welcome" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=50&duration=7000&lines=Hi+,+I'm+Vaibhav+Bargal+!;" />
 
